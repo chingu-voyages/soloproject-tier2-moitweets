@@ -14,6 +14,19 @@ You'll be responsible for coding the **HTML**, **CSS**, and **JavaScript** to ge
 
 **You May Use Frameworks and/or Libraries of Your Choosing**
 
+## About Chingu
+
+If you aren’t yet a member of Chingu we invite you to join us. We help our 
+members transform what they’ve learned in courses & tutorials into the 
+practical experience employers need and want.
+
+Our remote team projects let you refine your technical skills and put them 
+into practice while gaining new “soft” skills like communication, 
+collaboration, and Agile project management. The types of skills that 
+help real-world teams get things done!
+
+You can learn more and join us at [chingu.io](https://chingu.io).
+
 ## Instructions ##
 
 Unlike a normal Tier 2 app this project must be implemented as both a front-end app and a backend app.
